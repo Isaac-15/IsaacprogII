@@ -15,7 +15,10 @@ public class Personas {
     
     public Personas(String nombre,int cedula,String telefono,String correo){
         
-       
+       this.nombre = nombre;
+       this.cedula = cedula;
+       this.telefono = telefono;
+       this.correo = correo;
         
     }
     
