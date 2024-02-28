@@ -11,5 +11,5 @@ class Persona:
     
 P= Persona("Isaac","Carmona"," 1043967918","isaaccarmona281@gmail.com"," 301619461")
 
-print("mi nombre es "+P.nombre," mi apellido es "+P.apellido," mi cedula es "+P.cedula," mi correo es "+P.correo," y mi telefono "+P.telefono)
+print(" mi nombre es: "+P.nombre,"\n mi apellido es: "+P.apellido,"\n mi cedula es: "+P.cedula,"\n mi correo es: "+P.correo,"\n mi numero de telefono: "+P.telefono)
 
