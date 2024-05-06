@@ -2,6 +2,8 @@ import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
 
+#nota: para que salga la ventana de bienvenido, el usuario y la contraseña deben ser iguales. disfrute Att: bye bye mewing
+
 window = tk.Tk()
 window.title("LOGIN")
 window.geometry("800x500")
